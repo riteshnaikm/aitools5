@@ -1,0 +1,74 @@
+========================
+API KEYS SETUP GUIDE
+========================
+
+Your application requires a .env file with the following API keys.
+
+STEP 1: Create a file named ".env" in the root directory (C:\Users\Ritesh\Desktop\Cursor 1\)
+
+STEP 2: Add the following content to the .env file:
+
+---------------------------------------------------
+# API Keys Configuration
+
+# Groq API Key (for HR Assistant chatbot - uses Llama 3.1)
+GROQ_API_KEY=your_groq_api_key_here
+
+# Pinecone API Key (for vector database search)
+PINECONE_API_KEY=your_pinecone_api_key_here
+
+# Google Gemini API Key (for resume evaluation - uses Gemini 2.0 Flash)
+GOOGLE_API_KEY=your_google_gemini_api_key_here
+GEMINI_API_KEY=your_google_gemini_api_key_here
+---------------------------------------------------
+
+STEP 3: Get your API keys from:
+
+1. GROQ (Free tier available)
+   URL: https://console.groq.com/keys
+   - Sign up for an account
+   - Navigate to API Keys section
+   - Create a new API key
+   - Copy and paste it in the .env file
+
+2. Pinecone (Free tier available)
+   URL: https://app.pinecone.io/
+   - Sign up for an account
+   - Go to API Keys in the left sidebar
+   - Copy your API key
+   - Paste it in the .env file
+
+3. Google Gemini (Free tier available)
+   URL: https://makersuite.google.com/app/apikey
+   OR: https://aistudio.google.com/app/apikey
+   - Sign in with your Google account
+   - Click "Create API Key"
+   - Copy the API key
+   - Paste it in both GOOGLE_API_KEY and GEMINI_API_KEY fields
+
+STEP 4: Save the .env file
+
+STEP 5: Run the application:
+   python run.py
+
+========================
+TROUBLESHOOTING
+========================
+
+If you still get errors after setting up API keys:
+
+1. Make sure the .env file is in the same directory as run.py
+2. Check that there are no extra spaces in the API keys
+3. Verify each API key is valid by checking the respective dashboards
+4. Ensure your Pinecone index is created (the app will try to create "hr-knowledge-base" index)
+
+For the Pinecone index:
+- Dimension: 384
+- Metric: cosine
+- Cloud: AWS
+- Region: us-east-1
+
+========================
+
+
+

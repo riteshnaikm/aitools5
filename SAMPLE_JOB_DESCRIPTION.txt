@@ -1,0 +1,102 @@
+===================================
+SAMPLE JOB DESCRIPTION FOR TESTING
+===================================
+
+You can use this sample to test the Recruiter Handbook feature immediately!
+
+---
+
+Job Title: Senior Full Stack Developer
+
+Company: PeopleLogic Technologies
+
+Location: Bangalore, India (Hybrid)
+
+About Us:
+PeopleLogic Technologies is a leading HR technology company specializing in AI-powered recruitment and talent management solutions. We're on a mission to transform how companies find, evaluate, and retain top talent.
+
+Role Overview:
+We're seeking an experienced Senior Full Stack Developer to join our growing engineering team. You'll be responsible for designing and developing scalable web applications that power our AI-driven HR platform, working with cutting-edge technologies and making a real impact on how companies hire.
+
+Key Responsibilities:
+• Design, develop, and maintain full-stack web applications using modern frameworks
+• Build RESTful APIs and integrate with third-party services
+• Implement responsive, user-friendly interfaces with React/Vue.js
+• Work with AI/ML teams to integrate intelligent features into the platform
+• Optimize application performance and scalability
+• Participate in code reviews and mentor junior developers
+• Collaborate with product managers and designers to deliver features
+• Ensure code quality, testing, and documentation standards
+
+Required Qualifications:
+• 5-7 years of experience in full-stack development
+• Strong proficiency in Python (Flask/Django) and JavaScript (React/Vue.js)
+• Experience with SQL and NoSQL databases (PostgreSQL, MongoDB)
+• Knowledge of cloud platforms (AWS, Azure, or GCP)
+• Understanding of RESTful API design and microservices architecture
+• Experience with version control (Git) and CI/CD pipelines
+• Strong problem-solving and debugging skills
+• Excellent communication and teamwork abilities
+
+Preferred Qualifications:
+• Experience with AI/ML integration or NLP libraries
+• Knowledge of Docker and Kubernetes
+• Familiarity with Agile/Scrum methodologies
+• Previous experience in HR tech or SaaS products
+• Contributions to open-source projects
+
+Technical Stack:
+• Backend: Python, Flask, FastAPI
+• Frontend: React, Vue.js, JavaScript/TypeScript
+• Database: PostgreSQL, MongoDB, Redis
+• Cloud: AWS (EC2, S3, Lambda)
+• AI/ML: TensorFlow, PyTorch, Hugging Face
+• DevOps: Docker, Jenkins, GitHub Actions
+
+What We Offer:
+• Competitive salary (15-25 LPA based on experience)
+• Performance bonuses and stock options
+• Flexible work hours and hybrid model
+• Health insurance for you and your family
+• Learning and development budget
+• Modern office with latest tech
+• Collaborative and innovative culture
+• Career growth opportunities
+
+Interview Process:
+1. Initial screening call (30 minutes)
+2. Technical assessment (coding challenge)
+3. Technical interview with engineering team (1 hour)
+4. System design discussion (1 hour)
+5. Cultural fit interview with leadership (30 minutes)
+6. Final offer discussion
+
+How to Apply:
+Send your resume and portfolio to careers@peoplelogic.com
+
+Application Link: https://peoplelogic.com/careers/senior-full-stack-developer
+
+---
+
+ADDITIONAL CONTEXT TO ADD (Optional field in the form):
+
+Company Culture:
+PeopleLogic has a startup culture with a focus on innovation, collaboration, and continuous learning. We value work-life balance and believe in empowering our team members to make decisions. Our engineering team follows agile practices with 2-week sprints.
+
+Team Structure:
+You'll be joining a team of 15 engineers split into 3 squads (Frontend, Backend, AI/ML). The engineering team reports to our VP of Engineering and works closely with Product and Design teams.
+
+Growth Opportunities:
+Clear path to Lead/Principal Engineer or Engineering Manager roles. We invest heavily in learning and development with conference budgets, online courses, and regular tech talks.
+
+Key Skills to Prioritize:
+- Python and Flask experience (we use Flask extensively)
+- React expertise (our main frontend framework)
+- Experience with AI/ML integration (nice to have)
+- Strong system design skills
+- Startup experience or fast-paced environment
+
+---
+
+This sample should generate a comprehensive recruiter handbook with all the key sections!
+
